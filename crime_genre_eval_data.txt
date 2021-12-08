@@ -1,0 +1,4 @@
+<BOS> <crime> The body of a young girl was in a bathtub with a gun shot wound in her stomach. <EOS>
+<BOS> <crime> The dead boy was in a wardrobe with a rope around his neck. <EOS>
+<BOS> <crime> An old man was lying on the ground with a drink spilled nearby. <EOS>
+<BOS> <crime> The woman was lying on her back with an arrow sticking out of her chest. <EOS>

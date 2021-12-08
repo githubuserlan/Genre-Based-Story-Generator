@@ -1,0 +1,4 @@
+<BOS> <crime> The body of a young boy lay face down on the floor. There was a knife sticking out of his back, and blood pooled around him. <EOS>
+<BOS> <crime> The old woman sat dead on the couch with foam around her mouth. <EOS>
+<BOS> <crime> An old man was curled up on the carpet, his dead hands still clutching his abdomen. <EOS>
+<BOS> <crime> A girl was lying lifeless on the bed. On her neck were dark red marks. <EOS>
